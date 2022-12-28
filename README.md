@@ -11,14 +11,23 @@ Veillez a bien decompresser le fichier event.zip present dans le dossier data af
 #### Structuration du projet
 
 ├───data
+
 │   └─────const.py
+
 │   └─────event.csv
+
 │   └─────ginf.csv
+
 └───model
+
 │   └─────model.py
+
 │   └─────process.py
+
 ├───classifier.py
+
 ├───README.md
+
 ├───requirements.txt
 
 
